@@ -18,9 +18,11 @@ h2 {
   width: 50%;
   height: 20px;
   text-align: center;
-  padding-top: 10px;
+  margin-left: 25%;
+  padding-top: 5px;
   padding-bottom: 10px;
   border-radius: 70px;
+  vertical-align: middle;
 }
 h3 {
   font-family: Helvetica, sans-serif;
@@ -35,6 +37,12 @@ p.bold {
 }
 div.text {
   font-family: Helvetica;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 10px;
+  text-align: left;
+}
+div.graph {
   padding: 5px;
   margin: 20px;
   border-radius: 10px;
